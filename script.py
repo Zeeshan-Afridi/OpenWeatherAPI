@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_key = API
+API_key = "2a8f13773d1ec72d8c99d504f073861d"
 city_name = "Peshawar"
 url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}&units=metric"
 
